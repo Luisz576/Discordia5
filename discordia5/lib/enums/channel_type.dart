@@ -1,0 +1,4 @@
+enum ChannelType{
+  chat,
+  voice
+}

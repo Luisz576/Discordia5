@@ -1,0 +1,3 @@
+class AgoraConnectionWasntInitialized implements Exception{
+  
+}
